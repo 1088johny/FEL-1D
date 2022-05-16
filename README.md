@@ -1,6 +1,6 @@
 # FEL-1D
 
-The fel.f90 is a FORTRAN code to solve the one dimensional dynamics of the Free-Electron-Laser (FEL) interaction using a quantum fluid description in the paraxial aproximation. The code computes the FEL ressonance condition and solves the dynamics by using a fourth order Runge-Kutta method.
+The fel.f90 is a FORTRAN code to solve the one dimensional dynamics of the Free-Electron-Laser (FEL) interaction using a quantum fluid description in the paraxial aproximation. The code computes the FEL resonance condition and solves the dynamics by using a fourth order Runge-Kutta method.
 
 The results of this code were used for the following publications: 
 
